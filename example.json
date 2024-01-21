@@ -1,0 +1,5 @@
+[
+  { "first_name": "sahil", "last_name": "sinha", "is_good": true },
+  { "first_name": "shalini", "last_name": "sinha", "is_good": false },
+  { "first_name": "ayush", "last_name": "sinha", "is_good": true }
+]
